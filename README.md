@@ -1,7 +1,7 @@
 Giant Crop Fertilizer
 ===========================
 
-** THIS REPO IS AN ARCHIVE, PLEASE SEE THE UPDATED REPO AT [https://github.com/atravita-mods/StardewMods](https://github.com/atravita-mods/StardewMods)**
+**THIS REPO IS AN ARCHIVE, PLEASE SEE THE UPDATED REPO AT [https://github.com/atravita-mods/StardewMods](https://github.com/atravita-mods/StardewMods)**
 
 ![Header image](GiantCropFertilizer/docs/fertilizer.jpg)
 
